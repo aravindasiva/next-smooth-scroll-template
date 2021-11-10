@@ -148,7 +148,7 @@ const overrides = {
   },
   components: {
     Button
-  }
+  },
 }
 
 export default extendTheme(overrides)
