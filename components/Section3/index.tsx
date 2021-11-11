@@ -1,14 +1,7 @@
 import React from "react"
-import { Link } from "react-scroll"
-import PropTypes from "prop-types"
 import {
   Box,
-  Button,
-  Flex,
-  Image,
-  Heading,
-  Stack,
-  Text,
+  Text
 } from "@chakra-ui/react"
 
 const Section3 = () => {
@@ -18,7 +11,12 @@ const Section3 = () => {
         id="section3"
         minH='100vh'
         bg='green.100'
+        display='flex'
+        flexDirection='column'
+        justifyContent='center'
+        alignItems='center'
       >
+        <Text color='black' fontSize='4xl'>and more...</Text>
       </Box>
   )
 }

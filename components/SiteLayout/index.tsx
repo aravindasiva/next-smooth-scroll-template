@@ -1,5 +1,5 @@
 import { Box } from "@chakra-ui/react"
-import SiteHeader, { SiteHeaderHeight } from "../SiteHeader"
+import SiteHeader from "../SiteHeader"
 
 const SiteLayout = ({ children }) => {
   return (

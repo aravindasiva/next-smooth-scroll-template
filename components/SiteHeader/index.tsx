@@ -1,20 +1,13 @@
 import {
   Box,
   Flex,
-  IconButton,
   Divider,
-  Menu,
-  MenuButton,
-  MenuList,
-  MenuItem,
-  HStack,
   Stack,
-  useToast,
   Text,
   useDisclosure
 } from "@chakra-ui/react"
 import { Link } from 'react-scroll';
-import React, { useContext } from "react"
+import React from "react"
 import { HamburgerIcon } from "@chakra-ui/icons"
 
 
