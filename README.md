@@ -1,6 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
+ <h2 align="center">Next-Smooth-Scroll with chakra-UI, Storybook, react-scroll (TypeScript) </h2>
   <a href="https://github.com/aravindasiva/next-smooth-scroll-template">
     <img src="smooth.gif" alt="smooth af boii" width="270" height="270">
   </a>
@@ -35,7 +36,8 @@
 
 <br/>
 <br/>
-### Built With
+
+# Built With
 
 
 * [Next.js](https://nextjs.org/)
