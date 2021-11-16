@@ -30,6 +30,10 @@
   <a href="https://github.com/aravindasiva/next-smooth-scroll-template">
     <img src="scroll-template.gif" alt="smooth af demo" width="800" height="400">
   </a>
+    <br />
+    <br />
+    <br />
+    <a href="https://next-smooth-scroll-template.vercel.app/">View Demo</a>
 
   <h3 align="center">Next-Smooth-Scroll </h3>
 </div>
