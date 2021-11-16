@@ -13,7 +13,7 @@
     <br />
     <br />
     <br />
-    <a href="https://github.com/aravindasiva/next-smooth-scroll-template">View Demo</a>
+    <a href="https://next-smooth-scroll-template.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/aravindasiva/next-smooth-scroll-template/issues">Report Bug</a>
     ·

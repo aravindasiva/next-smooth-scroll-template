@@ -57,9 +57,9 @@ const SiteHeader = () => {
                 </Text>
               </Link>
               <Link activeClass="active" to="section2" spy={true} smooth={true} duration={1000}>
-                {/* <Text as={'a'} cursor="pointer" _hover={{ color: 'blue' }}> */}
+                <Text as={'a'} cursor="pointer" _hover={{ color: 'blue' }}>
                   Section 2
-                {/* </Text> */}
+                </Text>
               </Link>
               <Link activeClass="active" to="section3" spy={true} smooth={true} duration={1000}>
                 <Text as={'a'} cursor="pointer" _hover={{ color: 'blue' }}>
